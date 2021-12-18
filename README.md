@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 ## CNplus介绍
-<b>CNplus致力于让您轻松地使用中文编码，并提供相关教程。CNplus-python基于python环境，但无需担心，我们的Wiki中也会提供python环境的安装流程。</b>
+<b>CNplus致力于让您轻松地使用中文编码，并提供相关教程。CNplus-python基于python环境。</b>
 
 **我们有三个分支，分别是master、beta、和dev**
 
