@@ -1,4 +1,7 @@
 # CNplus-python
+
+<img src = "https://img.shields.io/github/repo-size/CNplus/CNplus-python?style=for-the-badge">
+
 Copyright [2021] [charlie894]
 
 Licensed under the Apache License, Version 2.0 (the "License");
