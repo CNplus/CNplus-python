@@ -1,6 +1,7 @@
 # CNplus-python
 
 <img src = "https://img.shields.io/github/repo-size/CNplus/CNplus-python?style=for-the-badge">
+<img src = "https://img.shields.io/github/downloads/CNplus/cnplus-python/total?style=for-the-badge">
 
 Copyright [2021] [charlie894]
 
