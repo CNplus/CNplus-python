@@ -1,7 +1,7 @@
 # CNplus-python
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/CNplus/CNplus-python?style=for-the-badge"><b> </b><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/CNplus/cnplus-python/total?style=for-the-badge">
 
-Copyright [2021] [name of copyright owner]
+Copyright [2021] [CNplus]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
