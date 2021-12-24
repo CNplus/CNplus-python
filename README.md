@@ -23,3 +23,14 @@ limitations under the License.
 main是已经经过测试的稳定版本，且在Beta分值发布后一周内无人提出bug，Beta是经过dev分支使用者测试过的较稳定版本，dev分支即为最新版本，当我们有新的版本时，会优先发布到dev分支，当dev分支发布后14天无issues反馈便会发布到Beta分支。
 ## Wiki
 我们为您提供了非常完整且适合新手的Wiki，您可以[点此进入](https://github.com/CNplus/CNplus-python/wiki)
+
+# 捐赠
+
+## 捐赠本项目
+
+请在右上角按下"star"和"watch"
+
+## 捐赠Charlie894
+
+[去小店购买我的商品(康康，啥都有)](https://bserver.cyou)
+[白嫖我建的云盘](https://cloud.894.ink)
