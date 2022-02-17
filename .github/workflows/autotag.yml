@@ -1,0 +1,15 @@
+name: autotag
+
+jobs:
+  build-n-publish:
+    name: autotag
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@master
+    - name: Set up Git
+      uses: actions/setup-python@v1
+      with:
+        git
+    - name: Install create tag
+      run: >-
+        git tag -a auto0 -m "autotag version"
