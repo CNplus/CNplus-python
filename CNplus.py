@@ -6,7 +6,7 @@ def 打印(a,b):
         print(b,end=' ')
 
 def 判断(a,b,c):
-    if b == '=':
+    if b == '==':
         if a == c:
             return 'true'
         else:
@@ -16,3 +16,26 @@ def 判断(a,b,c):
             return 'true'
         else:
             return 'false'
+    elif b == '<':
+        if a < c:
+            return 'true'
+        else:
+            return 'false'
+    elif b == '<=':
+        if a <= c:
+            return 'true'
+        else:
+            return 'false'
+    elif b == '>':
+        if a > c:
+            return 'true'
+        else:
+            return 'false'
+    elif b == '>=':
+        if a >= c:
+            return 'true'
+        else:
+            return 'false'
+    
+def 随机数(a,b):
+    return random.randint(a,b)
