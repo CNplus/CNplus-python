@@ -45,6 +45,7 @@ from CNplus.py import *
 python的函数名大多是为了所有说英文的人设计的,如`print`、`if`.而CNplus则是为说中文的人设计的.
 ### 为什么不是用E语言,而是CNplus?
 虽然CNplus并没有易语言完善,但**正版CNplus**是免费的,而正版易语言则需要支付200~700CNY后拿到加密狗才能使用正版,相较于易语言,CNplus只需要搭建好python环境,将CNplus.py与您的项目文件置于同一目录即可.
+
 ---
 ~**我们有三个分支，分别是main、beta、和dev**~
 
