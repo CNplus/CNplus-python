@@ -34,6 +34,7 @@ print("hello World!")
 打印(1,"你好,世界!“)
 ```
 >使用CNplus可以让你更加轻松,减少不必要的操作
+
 比如在Python中,随机数是这样的:
 ```Python
 import random
