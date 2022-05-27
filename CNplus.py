@@ -8,34 +8,34 @@ def 打印(a,b):
 def 判断(a,b,c):
     if b == '==':
         if a == c:
-            return 'true'
+            return True
         else:
-            return 'false'
+            return False
     elif b == '!=':
         if a != c:
-            return 'true'
+            return True
         else:
-            return 'false'
+            return False
     elif b == '<':
         if a < c:
-            return 'true'
+            return True
         else:
-            return 'false'
+            return False
     elif b == '<=':
         if a <= c:
-            return 'true'
+            return True
         else:
-            return 'false'
+            return False
     elif b == '>':
         if a > c:
-            return 'true'
+            return True
         else:
-            return 'false'
+            return False
     elif b == '>=':
         if a >= c:
-            return 'true'
+            return True
         else:
-            return 'false'
+            return False
     
 def 随机数(a,b):
     return random.randint(a,b)
