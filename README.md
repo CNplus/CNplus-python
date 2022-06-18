@@ -19,6 +19,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 ## CNplus介绍
+> Python版本已经弃用，请移步C语言版本
 <b>CNplus致力于让您轻松地使用中文编码，并提供相关教程。CNplus-python基于python环境。</b>
 
 ### 使用CNplus的好处
